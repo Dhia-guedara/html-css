@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dhia guedara</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+ </head>
+ 
+<body>
+    <header>
+        <a href="#" class="logo"> dhia</a>
+        <nav class="navigation">
+        <a href="services">services</a>
+        <a href="projects">project</a>
+        <a href="contacts">contact</a></nav></header>
+    
+
+        <section class="main">
+            <div>
+               
+                <h2>hy i'm dhia<br><span>content creator</span></h2>
+                
+               
+                
+                <a href="#projects" class="main-btn">view my project</a>
+                
+                <div  class="social-icons">
+                <a href="https://www.instagram.com/d.h.i.a.g.u.e.d.a.r.a/"></a><i class="fab fa-instagram"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=100056817279930"></a><i class="fab fa-facebook"></i></a>
+                <a href="https://github.com/Dhia-guedara"></a><i class="fab fa-github"></i></a></div> </div></section>
+
+<section class="card1" id="services">
+        <h2 class="title">services</h2>
+            <div class="content">   
+                <div class="card" href="https://www.w3schools.com/html/default.asp">
+                    <div class="icon">
+                    <i class="fab fa-html5"></i></div>
+                            <div class="info">
+                            <h3>html </h3>
+                            <p>Markup language used for the creation of web pages, allowing in particular to define hypertext links.</p></div> </div>
+                <div class="card">
+                    <div class="icon">
+                        <i class="fab fa-css3-alt"></i></div>
+                            <div class="info">
+                            <h3>css </h3>
+                             <p>Cascading Style Sheets, usually called CSS from English Cascading Style Sheets, form a computer language that describes the presentation of HTML documents .</p></div> </div>
+                <div class="card" >
+                     <div class="icon">
+                        <i class="fab fa-js"></i></div>
+                            <div class="info">
+                             <h3>java script </h3>
+                            <p>??????????????????????????????????????????</p></div> </div></div></section>
+
+
+
+ <section class="projects" id="projects">
+<h2 class="title">projects</h2>
+<div class="content" >
+                        <div class="project-card">
+                            <div class="project-image">
+                                <img src="regby ball 1.jpg"></div>
+                                <div class="project-info">
+                                   <p class="project-category"> html & css project</p>
+                                   <strong class="project-title">
+                                      <span><hr>regby ball <hr> regby vocabalary <hr>regbu history <hr>Famous Player <hr> </span>
+                                      <a href="file:///C:/Users/Administrator/Desktop/dhia%20guedara/myFirstProject/intex.html" class="more-details">more details<a></strong></div></div>
+
+
+                                                                                                      
+                                         
+                                                                                   
+                                        
+                                        
+                                        
+                                                                                           <div class="project-card">             
+                                                                                        <div class="preoject-image">
+                                                                                      <img src="hhh.jpg"></div>
+                                                                                      <div class="project-info">
+                                                                                         <p class="project-category"> html & css project</p>
+                                                                                         <strong class="project-title">
+                                                                                           <span><hr>portfoliu<hr></span>
+                                                                                           <a href="file:///C:/Users/Administrator/Desktop/dhia%20guedara/portfoliu%20of%20dhia/index.html" class="more-details">more details<a></strong></div> <div></section>
+     <section class="card1" id="contacts">
+ <h2 class="title">contact me </h2>
+            <div class="content">
+                <div class="card">
+                <div class="icon">
+                    <i class="fas fa-at"></i></div>
+                        <div class="info">
+                        <h3>email </h3>
+                         <p>dhiaguedara960@gmail.com</p></div> </div>
+            <div class="card">
+                 <div class="icon">
+                    <i class="fas fa-phone"></i></div>
+                        <div class="info">
+                         <h3>number phone </h3>
+                        <p>216+55912300</p></div> </div></div></section>
+
+          </section>     
+          <footer class="footer">
+            <p class="footer-title"> copy right@ <span>dhia guedara<span><p>
+                <div  class="social-icons">
+                    <a href="https://www.instagram.com/d.h.i.a.g.u.e.d.a.r.a/"></a><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100056817279930"></a><i class="fab fa-facebook"></i></a>
+                    <a href="https://github.com/Dhia-guedara"></a><i class="fab fa-github"></i></a></div> </div>
+          </footer>
+                                                                                                              
+
+
+
+    
+</body>
+</html>
